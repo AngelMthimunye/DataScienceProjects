@@ -1,2 +1,2 @@
-# DataScienceProjects
-This repository will be used to implement the Sandton neighborhoods project.
+# Sandton Venues Projects
+**Applied Data Science IBM Course Project**
